@@ -185,6 +185,7 @@ const Features = () => (
             loop
             muted
             autoPlay
+            playsInline
             className="size-full object-cover object-center"
           />
         </BentoTilt>
